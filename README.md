@@ -10,4 +10,4 @@
 <img src="Guide.png" alt="example2" />
 
 ## Use exporter
-Check out the [Namada validator exporter](https://github.com/EvgenyKhlivetsky/namada-exporter)
+Check out the [Namada validator exporter](https://github.com/MELLIFERA-Labs/namada-exporter)
